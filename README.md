@@ -9,7 +9,7 @@ $ pkg install python
 $ pkg install bash
 $ pkf install git
 $ git clone https://github.com/HRC303/SpamWhatsapp22
-$ cd spam-whatsapp
+$ cd SpamWhatsapp22
 $ pip install -r requirements.txt
 $ bash install.sh
 ```
