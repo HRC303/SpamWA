@@ -1,18 +1,18 @@
 # Spam WhatsApp
 ```
 Tools ini dibuat untuk ngerjain
-Kang Ripper atau boleh juga buat
-nyepam Mantan Lu awokawokwkwk:v
+Target atau boleh juga buat
+spam Mantan Lu awokawokwkwk:v
 ```
-> Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
-## How to it?
-```python
+Kata Perintah Yg di gunakan :
+$ pkg install python
+$ pkg install bash
+$ pkf install git
+$ git clone https://github.com/HRC303/SpamWhatsapp22
 $ cd spam-whatsapp
+$ pip install -r requirements.txt
 $ bash install.sh
 ```
-> Get Token [click here](https://bit.ly/TokenSpamWhatsApp)
-## Support Me On
-<b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
-<br>
-<b>• [Youtube](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)</b>
-</br>
+> Get Token 
+
+Copy Token : WdcIvcWfRWfJA2BCGRYKnVDWWTygqt27RrGj1l8NgQN9GAGnN
